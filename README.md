@@ -23,5 +23,8 @@ Each JSON file represents a **paint brand** and includes color data with standar
     "y": 59,
     "k": 93,
     "lightfastness": "++++",
-    "coverage": "Opaque"
+    "coverage": "Opaque",
+    "finish": "matte",
+    "fluorescent": false,
+    "metallic": false
   }
